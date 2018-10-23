@@ -1,4 +1,4 @@
-# StochasticOptimizationAlgorithms
+StochasticOptimizationAlgorithms
 
 The solutions to the Home Problems made in the Stochastic Optimization Algorithms courses in Chalmers, by Prof. M.Wahde. This course is about some heuristic optimizations inspired from biology. The main focus is on Evolutionnary Algorithms, Ant Colony Optimization, and Particle Swarm. Some classical optimization methods are also treated.
 
